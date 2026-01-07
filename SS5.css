@@ -1,0 +1,23 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    text-align: center;
+    line-height: 30px;
+}
+h2{
+    color: #1e90ff;
+}
+.padding{
+    padding: 8px 12px;
+    border-color: #1e90ff;
+}
+.padding-1{
+    padding: 8px 12px;
+    border-color: #1e90ff;
+}
+.item{
+    color: #fafeff;
+    background-color: #00bfff;
+}
